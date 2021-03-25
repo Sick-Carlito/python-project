@@ -26,7 +26,7 @@ pymongo==3.7.1
 python-dateutil==2.6.1
 python-editor==1.0.4
 python-twitter==3.4.2
-PyYAML==3.13
+PyYAML==5.4
 requests==2.19.1
 requests-oauthlib==1.0.0
 six==1.11.0
